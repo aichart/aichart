@@ -20,15 +20,6 @@
 
 ***Status***
 
-
-
-| <a href="https://github.com/aichart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aichart&show_icons=true&include_all_commits=true&theme=bear&hide_border=true" alt="aichart's github stats" /></a> | <a href="https://github.com/aichart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aichart&layout=compact&theme=bear&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-| <a href="https://github.com/aichart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aichart&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="aichart's github stats" /></a> | <a href="https://github.com/aichart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aichart&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 | <a href="https://github.com/aichart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aichart&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="aichart's github stats" /></a> | <a href="https://github.com/aichart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aichart&layout=compact&theme=onedark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
