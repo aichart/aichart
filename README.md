@@ -1,6 +1,6 @@
 ## ***Hi there*** 👋
 
-***bout me***
+***about me***
 
 - *lang*
 
